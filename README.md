@@ -8,6 +8,12 @@ It offers all of the following: <br>
 * Options to change the length of **Uppercase Characters** and **Lower Case Characters** and **Special Characters** and **Numbers** in your securely generated password.
 * Written in **Python 3.10**!
 
+## Screenshot <br>
+**Coming Soon.** 
+
+## Compilation Guide <br>
+**Coming Soon.**
+
 <br>
 
 ## Your contribution is needed <br>
