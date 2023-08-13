@@ -4,7 +4,7 @@
 
 ### As the title says, but what are the most interesting features does it offer? <br>
 It offers all of the following: <br>
-* A beautiful and an easy to use UI
+* A beautiful and an easy to use UI (I'm still working on it)
 * Options to change the length of **Uppercase Characters** and **Lower Case Characters** and **Special Characters** and **Numbers** in your securely generated password.
 * Written in **Python 3.10**!
 
