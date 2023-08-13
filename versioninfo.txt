@@ -1,7 +1,7 @@
 VSVersionInfo(
   ffi=FixedFileInfo(
-    filevers=(0, 1, 0, 1),
-    prodvers=(0, 1, 0, 0),
+    filevers=(2023, 8, 14, 2),
+    prodvers=(2023, 8, 14, 2),
     mask=0x3f,
     flags=0x0,
     OS=0x40004,
@@ -14,14 +14,14 @@ VSVersionInfo(
       [
       StringTable(
         u'040904B0',
-        [StringStruct(u'CompanyName', u'Insertx2k Dev (Mr.X)'),
-        StringStruct(u'FileDescription', u'APG Service'),
-        StringStruct(u'FileVersion', u'0.1 (Stable) Command Line'),
-        StringStruct(u'InternalName', u'apgservices'),
-        StringStruct(u'LegalCopyright', u'Insertx2k Dev (Mr.X) - 2021 - All rights reserved'),
-        StringStruct(u'OriginalFilename', u'apgservices.exe'),
-        StringStruct(u'ProductName', u'APG Service'),
-        StringStruct(u'ProductVersion', u'0.1 (Stable) Command Line')])
+        [StringStruct(u'CompanyName', u'Ziad Ahmed (Mr.X)'),
+        StringStruct(u'FileDescription', u'Advanced Password Generator Background CLI Service'),
+        StringStruct(u'FileVersion', u'2023-08-14 v2.0 stable'),
+        StringStruct(u'InternalName', u'apgcli'),
+        StringStruct(u'LegalCopyright', u'Ziad (Mr.X) Software 2021 - 2023 - All rights reserved'),
+        StringStruct(u'OriginalFilename', u'apgcli.exe'),
+        StringStruct(u'ProductName', u'APG Background CLI Service'),
+        StringStruct(u'ProductVersion', u'2023-08-14 v2.0 stable')])
       ]), 
     VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
   ]
